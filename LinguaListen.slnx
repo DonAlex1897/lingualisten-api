@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LinguaListen.API/LinguaListen.API.csproj" />
+    <Project Path="src/LinguaListen.Application/LinguaListen.Application.csproj" />
+    <Project Path="src/LinguaListen.Domain/LinguaListen.Domain.csproj" />
+    <Project Path="src/LinguaListen.Infrastructure/LinguaListen.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LinguaListen.IntegrationTests/LinguaListen.IntegrationTests.csproj" />
+    <Project Path="tests/LinguaListen.UnitTests/LinguaListen.UnitTests.csproj" />
+  </Folder>
+</Solution>
